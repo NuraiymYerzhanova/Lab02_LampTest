@@ -25,6 +25,7 @@ public class Lamp {
         bulb.turnOff();
     }
 
+    
     public void brighten() {
         if (isOn) {
             intensity++;
