@@ -6,8 +6,8 @@ import android.widget.Button;
 import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
 
-// Name: [Seyfettin Kerem Surupcu]
-// Student ID: [58567]
+// Name: [Nuraiym Yerzhanova]
+// Student ID: [47151]
 // Lab Number: 2
 
 public class MainActivity extends AppCompatActivity {
