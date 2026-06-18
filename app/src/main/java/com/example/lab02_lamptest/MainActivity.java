@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
         runBtn = findViewById(R.id.btnRunTests);
         reportTxt = findViewById(R.id.textReport);
 
+        
         runBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
