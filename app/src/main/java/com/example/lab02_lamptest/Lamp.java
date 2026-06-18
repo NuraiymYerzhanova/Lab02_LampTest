@@ -49,6 +49,7 @@ public class Lamp {
         }
     }
 
+    
     public boolean replaceBulb() {
         if (!isOn) {
             bulb = new Bulb();
