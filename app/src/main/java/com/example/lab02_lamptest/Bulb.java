@@ -3,6 +3,7 @@ package com.example.lab02_lamptest;
 public class Bulb {
     private boolean isOn = false;
     private boolean isBurned = false;
+    
 
     public void turnOn() {
         if (!isBurned) {
